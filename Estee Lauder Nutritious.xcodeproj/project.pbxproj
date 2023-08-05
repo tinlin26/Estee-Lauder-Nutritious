@@ -7,19 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2682DA772A7D8D42005A2A2B /* video1 - Small.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2682DA762A7D8D42005A2A2B /* video1 - Small.mov */; };
 		268443322A7C42A20079FC2C /* Estee_Lauder_NutritiousApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 268443312A7C42A20079FC2C /* Estee_Lauder_NutritiousApp.swift */; };
 		268443342A7C42A20079FC2C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 268443332A7C42A20079FC2C /* ContentView.swift */; };
 		268443362A7C42A40079FC2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 268443352A7C42A40079FC2C /* Assets.xcassets */; };
 		2684433A2A7C42A40079FC2C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 268443392A7C42A40079FC2C /* Preview Assets.xcassets */; };
+		268443432A7C4B1B0079FC2C /* Mask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 268443422A7C4B1B0079FC2C /* Mask.swift */; };
+		268443452A7C5BE90079FC2C /* Cleanser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 268443442A7C5BE90079FC2C /* Cleanser.swift */; };
+		268443472A7C5C0D0079FC2C /* Radiant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 268443462A7C5C0D0079FC2C /* Radiant.swift */; };
+		268443492A7C5C1C0079FC2C /* Airy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 268443482A7C5C1C0079FC2C /* Airy.swift */; };
+		268443532A7C748C0079FC2C /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 268443522A7C748C0079FC2C /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2682DA762A7D8D42005A2A2B /* video1 - Small.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "video1 - Small.mov"; path = "../../../Library/Containers/com.apple.mail/Data/Library/Mail Downloads/EC9F4BEA-5CA3-4D53-AC76-3D844D637A57/video1 - Small.mov"; sourceTree = "<group>"; };
 		2684432E2A7C42A20079FC2C /* Estee Lauder Nutritious.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Estee Lauder Nutritious.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		268443312A7C42A20079FC2C /* Estee_Lauder_NutritiousApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Estee_Lauder_NutritiousApp.swift; sourceTree = "<group>"; };
 		268443332A7C42A20079FC2C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		268443352A7C42A40079FC2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		268443372A7C42A40079FC2C /* Estee_Lauder_Nutritious.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Estee_Lauder_Nutritious.entitlements; sourceTree = "<group>"; };
 		268443392A7C42A40079FC2C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		268443422A7C4B1B0079FC2C /* Mask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mask.swift; sourceTree = "<group>"; };
+		268443442A7C5BE90079FC2C /* Cleanser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cleanser.swift; sourceTree = "<group>"; };
+		268443462A7C5C0D0079FC2C /* Radiant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Radiant.swift; sourceTree = "<group>"; };
+		268443482A7C5C1C0079FC2C /* Airy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Airy.swift; sourceTree = "<group>"; };
+		268443522A7C748C0079FC2C /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,12 @@
 			children = (
 				268443312A7C42A20079FC2C /* Estee_Lauder_NutritiousApp.swift */,
 				268443332A7C42A20079FC2C /* ContentView.swift */,
+				2682DA762A7D8D42005A2A2B /* video1 - Small.mov */,
+				268443522A7C748C0079FC2C /* Shop.swift */,
+				268443462A7C5C0D0079FC2C /* Radiant.swift */,
+				268443482A7C5C1C0079FC2C /* Airy.swift */,
+				268443442A7C5BE90079FC2C /* Cleanser.swift */,
+				268443422A7C4B1B0079FC2C /* Mask.swift */,
 				268443352A7C42A40079FC2C /* Assets.xcassets */,
 				268443372A7C42A40079FC2C /* Estee_Lauder_Nutritious.entitlements */,
 				268443382A7C42A40079FC2C /* Preview Content */,
@@ -128,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2684433A2A7C42A40079FC2C /* Preview Assets.xcassets in Resources */,
+				2682DA772A7D8D42005A2A2B /* video1 - Small.mov in Resources */,
 				268443362A7C42A40079FC2C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,8 +158,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				268443492A7C5C1C0079FC2C /* Airy.swift in Sources */,
+				268443472A7C5C0D0079FC2C /* Radiant.swift in Sources */,
 				268443342A7C42A20079FC2C /* ContentView.swift in Sources */,
 				268443322A7C42A20079FC2C /* Estee_Lauder_NutritiousApp.swift in Sources */,
+				268443532A7C748C0079FC2C /* Shop.swift in Sources */,
+				268443452A7C5BE90079FC2C /* Cleanser.swift in Sources */,
+				268443432A7C4B1B0079FC2C /* Mask.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
